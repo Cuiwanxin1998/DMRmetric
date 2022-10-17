@@ -1,0 +1,6 @@
+paste0(system.file('extdata','BSseq_DMR',package='DMRmetric'),'/','DMRcaller.BSseq')	DMRcaller
+paste0(system.file('extdata','BSseq_DMR',package='DMRmetric'),'/','DSS.BSseq')	DSS
+paste0(system.file('extdata','BSseq_DMR',package='DMRmetric'),'/','HOME.BSseq')	HOME
+paste0(system.file('extdata','BSseq_DMR',package='DMRmetric'),'/','methylKit.BSseq')	methylKit
+paste0(system.file('extdata','BSseq_DMR',package='DMRmetric'),'/','RADmeth.BSseq')	RADmeth
+paste0(system.file('extdata','BSseq_DMR',package='DMRmetric'),'/','smart.BSseq')	smart
